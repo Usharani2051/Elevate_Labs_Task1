@@ -1,8 +1,9 @@
 # Elevate_Labs_Task1
 Data Cleaning and Preprocessing
 Objective: This task is about cleaning and preprocessing a raw sales dataset.
+
 Dataset Overview:
-- **Source**: Sample Sales Data (CSV)
+-  Source: Sample Sales Data (CSV)
 Tools Used: Excel
 Summary:
 - Removed duplicate rows
